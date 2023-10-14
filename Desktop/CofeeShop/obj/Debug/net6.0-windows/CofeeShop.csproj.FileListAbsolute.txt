@@ -1,0 +1,45 @@
+C:\Users\MY DESKTOP\source\repos\CofeeShop\bin\Debug\net6.0-windows\CofeeShop.exe
+C:\Users\MY DESKTOP\source\repos\CofeeShop\bin\Debug\net6.0-windows\CofeeShop.deps.json
+C:\Users\MY DESKTOP\source\repos\CofeeShop\bin\Debug\net6.0-windows\CofeeShop.runtimeconfig.json
+C:\Users\MY DESKTOP\source\repos\CofeeShop\bin\Debug\net6.0-windows\CofeeShop.dll
+C:\Users\MY DESKTOP\source\repos\CofeeShop\bin\Debug\net6.0-windows\CofeeShop.pdb
+C:\Users\MY DESKTOP\source\repos\CofeeShop\obj\Debug\net6.0-windows\CofeeShop.csproj.AssemblyReference.cache
+C:\Users\MY DESKTOP\source\repos\CofeeShop\obj\Debug\net6.0-windows\CofeeShop.csproj.GenerateResource.cache
+C:\Users\MY DESKTOP\source\repos\CofeeShop\obj\Debug\net6.0-windows\CofeeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MY DESKTOP\source\repos\CofeeShop\obj\Debug\net6.0-windows\CofeeShop.AssemblyInfoInputs.cache
+C:\Users\MY DESKTOP\source\repos\CofeeShop\obj\Debug\net6.0-windows\CofeeShop.AssemblyInfo.cs
+C:\Users\MY DESKTOP\source\repos\CofeeShop\obj\Debug\net6.0-windows\CofeeShop.csproj.CoreCompileInputs.cache
+C:\Users\MY DESKTOP\source\repos\CofeeShop\obj\Debug\net6.0-windows\CofeeShop.dll
+C:\Users\MY DESKTOP\source\repos\CofeeShop\obj\Debug\net6.0-windows\refint\CofeeShop.dll
+C:\Users\MY DESKTOP\source\repos\CofeeShop\obj\Debug\net6.0-windows\CofeeShop.pdb
+C:\Users\MY DESKTOP\source\repos\CofeeShop\obj\Debug\net6.0-windows\CofeeShop.genruntimeconfig.cache
+C:\Users\MY DESKTOP\source\repos\CofeeShop\obj\Debug\net6.0-windows\ref\CofeeShop.dll
+C:\Users\MY DESKTOP\source\repos\CofeeShop\obj\Debug\net6.0-windows\CofeeShop.Views.MenuDisplayForm.resources
+C:\Users\MY DESKTOP\source\repos\CofeeShop\obj\Debug\net6.0-windows\CofeeShop.Views.MenuForm.resources
+C:\Users\MY DESKTOP\source\repos\CofeeShop\obj\Debug\net6.0-windows\CofeeShop.Views.OrderForm.resources
+C:\Users\MY DESKTOP\source\repos\CofeeShop\obj\Debug\net6.0-windows\CofeeShop.Views.OrderReceiptForm.resources
+C:\Users\MY DESKTOP\source\repos\CofeeShop\obj\Debug\net6.0-windows\CofeeShop.Views.MainForm.resources
+C:\Users\MY DESKTOP\source\repos\CofeeShop\obj\Debug\net6.0-windows\CofeeShop.Views.ShowItem.resources
+C:\Users\LENOVO\Desktop\CofeeShop\bin\Debug\net6.0-windows\CofeeShop.exe
+C:\Users\LENOVO\Desktop\CofeeShop\bin\Debug\net6.0-windows\CofeeShop.deps.json
+C:\Users\LENOVO\Desktop\CofeeShop\bin\Debug\net6.0-windows\CofeeShop.runtimeconfig.json
+C:\Users\LENOVO\Desktop\CofeeShop\bin\Debug\net6.0-windows\CofeeShop.dll
+C:\Users\LENOVO\Desktop\CofeeShop\bin\Debug\net6.0-windows\CofeeShop.pdb
+C:\Users\LENOVO\Desktop\CofeeShop\obj\Debug\net6.0-windows\CofeeShop.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\CofeeShop\obj\Debug\net6.0-windows\CofeeShop.Views.MainForm.resources
+C:\Users\LENOVO\Desktop\CofeeShop\obj\Debug\net6.0-windows\CofeeShop.Views.MenuDisplayForm.resources
+C:\Users\LENOVO\Desktop\CofeeShop\obj\Debug\net6.0-windows\CofeeShop.Views.MenuForm.resources
+C:\Users\LENOVO\Desktop\CofeeShop\obj\Debug\net6.0-windows\CofeeShop.Views.OrderForm.resources
+C:\Users\LENOVO\Desktop\CofeeShop\obj\Debug\net6.0-windows\CofeeShop.Views.OrderReceiptForm.resources
+C:\Users\LENOVO\Desktop\CofeeShop\obj\Debug\net6.0-windows\CofeeShop.Views.ShowItem.resources
+C:\Users\LENOVO\Desktop\CofeeShop\obj\Debug\net6.0-windows\CofeeShop.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\CofeeShop\obj\Debug\net6.0-windows\CofeeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\CofeeShop\obj\Debug\net6.0-windows\CofeeShop.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\CofeeShop\obj\Debug\net6.0-windows\CofeeShop.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\CofeeShop\obj\Debug\net6.0-windows\CofeeShop.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\CofeeShop\obj\Debug\net6.0-windows\CofeeShop.dll
+C:\Users\LENOVO\Desktop\CofeeShop\obj\Debug\net6.0-windows\refint\CofeeShop.dll
+C:\Users\LENOVO\Desktop\CofeeShop\obj\Debug\net6.0-windows\CofeeShop.pdb
+C:\Users\LENOVO\Desktop\CofeeShop\obj\Debug\net6.0-windows\CofeeShop.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\CofeeShop\obj\Debug\net6.0-windows\ref\CofeeShop.dll
+C:\Users\LENOVO\Desktop\CofeeShop\obj\Debug\net6.0-windows\CofeeShop.Properties.Resources.resources
